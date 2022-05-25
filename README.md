@@ -32,15 +32,6 @@ and remove all the comments and also rename this file to README.md
 <div align="center">
 
 <!-- Use Shields website (link in acknowledgement section) to generate these for your repo or just replace the links here with yours -->
-
-[![Status](https://img.shields.io/badge/project_name-Live-success?style=for-the-badge)](https://your-live-project-link.com)
-![Status](https://img.shields.io/badge/status-active-success.svg?style=for-the-badge)
-[![GitHub issues](https://img.shields.io/github/issues/github_username/github_repo_link?style=for-the-badge)](https://github.com/github_username/github_repo_link/issues)
-[![GitHub forks](https://img.shields.io/github/forks/github_username/github_repo_link?style=for-the-badge)](https://github.com/github_username/github_repo_link/network)
-[![GitHub stars](https://img.shields.io/github/stars/github_username/github_repo_link?style=for-the-badge)](https://github.com/github_username/github_repo_link/stargazers)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/github_username/github_repo_link?style=for-the-badge)
-[![GitHub license](https://img.shields.io/github/license/github_username/github_repo_link?style=for-the-badge)](https://github.com/github_username/github_repo_link)
-
 </div>
 
 <hr />
