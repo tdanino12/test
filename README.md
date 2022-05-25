@@ -45,7 +45,7 @@ MAC PER provides a multi agent framework based on DDQN and Prioritized Experienc
 
 ## 🧐About
 
-The projects provide implementation of:
+The projects provides implementation of:
 1. Standart DDQN agents.
 2. PER based agents.
 3. PER with buffer shraing between the agents.
@@ -102,7 +102,7 @@ How to use your project
 
 <!-- Add links to all the resources you followed or referred to -->
 
--   []()
+-   [MAC Control Framework](https://github.com/sarah-keren/MAC)
 -   []()
 
 ## 🎉Acknowledgement
