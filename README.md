@@ -10,7 +10,7 @@
 
 <hr />
 <br />
-<hr />
+
 
 
 MAC PER is a multi agent framework based on DDQN and [Prioritized Experience Replay](https://arxiv.org/abs/1511.05952). 
