@@ -103,11 +103,8 @@ How to use your project
 <!-- Add links to all the resources you followed or referred to -->
 
 -   [MAC Control Framework](https://github.com/sarah-keren/MAC)
--   []()
+-   [pythonlessons/Reinforcement_Learning](https://github.com/pythonlessons/Reinforcement_Learning/tree/master/05_CartPole-reinforcement-learning_PER_D3QN)
 
 ## 🎉Acknowledgement
 
--   [Shields](https://shields.io)
--   []()
-
-<!-- > _**NOTE:** Notes template._ -->
+-   [pythonlessons/Reinforcement_Learning](https://github.com/pythonlessons/Reinforcement_Learning/tree/master/05_CartPole-reinforcement-learning_PER_D3QN)
