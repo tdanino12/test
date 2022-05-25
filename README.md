@@ -4,12 +4,10 @@
 
 </div>
 
-<h1 align="center">Multi Agent Project</h1>
+<h1 align="center">Multi-Agent PER Project</h1>
 
 <div align="center">
 
-<!-- Use Shields website (link in acknowledgement section) to generate these for your repo or just replace the links here with yours -->
-</div>
 
 <hr />
 <br />
