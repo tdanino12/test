@@ -14,8 +14,7 @@ MAC-PER is a multi-agent framework based on DDQN and Prioritized Experience Repl
 
 </div>
 
-<hr />
-</p>
+
 
 	
 	
