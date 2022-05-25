@@ -48,7 +48,7 @@ MAC PER provides a multi agent framework based on DDQN and Prioritized Experienc
 The projects provides implementation of:
 1. Standart DDQN agents.
 2. PER based agents.
-3. PER with buffer shraing between the agents.
+3. PER with buffer shraing agents.
 
 ## 💡Features
 
