@@ -1,17 +1,41 @@
-<div align="center">
+
+	
+	
+	<div align="center">
+
 <!-- Add your project logo if you have any -->
 <img width=200px height=200px src="images/sisl_pursuit.gif" alt="Project logo">
 
+</div>
 
-<h1 align="center">Multi-Agent PER Project</h1>
+<h1 align="center">project_name</h1>
+
+ <p align="center">
+ 	<!-- Add your tagline or very short intro of your project -->
+	Your project tagline/short description here
+    <br />
+	<!-- Add your project live demo link here -->
+    <a href="https://github.com/github_username/github_repo_link">View Demo</a>
+    ·
+	<!-- Add you issue link here -->
+    <a href="https://github.com/github_username/github_repo_link/issues">Report Bug</a>
+    ·
+	<!-- Add you issue/discussion link here too -->
+    <a href="https://github.com/github_username/github_repo_link/issues">Request Feature</a>
+  </p>
 
 <div align="center">
 
+<!-- Use Shields website (link in acknowledgement section) to generate these for your repo or just replace the links here with yours -->
 
+[![Status](https://img.shields.io/badge/project_name-Live-success?style=for-the-badge)](https://your-live-project-link.com)
+![Status](https://img.shields.io/badge/status-active-success.svg?style=for-the-badge)
+[![GitHub issues](https://img.shields.io/github/issues/github_username/github_repo_link?style=for-the-badge)](https://github.com/github_username/github_repo_link/issues)
+[![GitHub forks](https://img.shields.io/github/forks/github_username/github_repo_link?style=for-the-badge)](https://github.com/github_username/github_repo_link/network)
+[![GitHub stars](https://img.shields.io/github/stars/github_username/github_repo_link?style=for-the-badge)](https://github.com/github_username/github_repo_link/stargazers)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/github_username/github_repo_link?style=for-the-badge)
+[![GitHub license](https://img.shields.io/github/license/github_username/github_repo_link?style=for-the-badge)](https://github.com/github_username/github_repo_link)
 
-MAC PER is a multi agent framework based on DDQN and [Prioritized Experience Replay](https://arxiv.org/abs/1511.05952). 
-	<a href="[https://github.com/github_username/github_repo_link/issues](https://arxiv.org/abs/1511.05952)">Prioritized Experience Replay</a>
-	
 </div>
 
 <hr />
@@ -28,9 +52,15 @@ MAC PER is a multi agent framework based on DDQN and [Prioritized Experience Rep
 <hr />
 
 <p align="center">
-Project's introduction here
+MAC PER is a multi agent framework based on DDQN and [Prioritized Experience Replay](https://arxiv.org/abs/1511.05952). 
+	<a href="[https://github.com/github_username/github_repo_link/issues](https://arxiv.org/abs/1511.05952)">Prioritized Experience Replay</a>
+	
 </p>
-
+	
+	
+	
+	
+	
 ## 🧐About
 
 MAC PER offers an introduction to PER and multi agent environments using the Petting-zoo API. We test our solution on the pursuit environment with three different modes. 
