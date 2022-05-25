@@ -10,18 +10,13 @@
 
 
 <div align="center">
-MAC PER is a multi agent framework based on DDQN and Prioritized Experience Replay. 
+MAC PER is a multi agent framework based on DDQN and Prioritized Experience Replay (PER). 
 
 </div>
 
 <hr />
 </p>
 
-
-
-
-	
-	
 	
 	
 	
@@ -31,7 +26,7 @@ MAC PER offers an introduction to [PER](https://arxiv.org/abs/1511.05952) and mu
 
 ## 💡Features
 
-The projects provide implementation of:
+The project provides implementation of:
 1. Standart DDQN agents.
 2. PER based agents.
 3. PER with buffer shraing between the agents.
@@ -72,5 +67,5 @@ These instructions will help you to setup your own copy of "MAC PER" on your loc
 -   [pythonlessons/Reinforcement_Learning](https://github.com/pythonlessons/Reinforcement_Learning/tree/master/05_CartPole-reinforcement-learning_PER_D3QN)
 
 ## 🎉Acknowledgement
-
+The PER implementation is mainly relying on the Pythonlessons repository:
 -   [pythonlessons/Reinforcement_Learning](https://github.com/pythonlessons/Reinforcement_Learning/tree/master/05_CartPole-reinforcement-learning_PER_D3QN)
