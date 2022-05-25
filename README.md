@@ -47,10 +47,7 @@ MAC PER provides a multi agent framework based on DDQN and [Prioritized Experien
 
 ## 🧐About
 
-The projects provides implementation of:
-1. Standart DDQN agents.
-2. PER based agents.
-3. PER with buffer shraing agents.
+MAC PER offers an introduction to PER and multi agent environments using the Petting-zoo API. We test our solution on the pursuit environment with three different modes. 
 
 ## 💡Features
 
