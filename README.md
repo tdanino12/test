@@ -9,7 +9,7 @@ and remove all the comments and also rename this file to README.md
 <div align="center">
 
 <!-- Add your project logo if you have any -->
-<img width=200px height=200px src="" alt="Project logo">
+<img width=200px height=200px src="images/sisl_pursuit.gif" alt="Project logo">
 
 </div>
 
