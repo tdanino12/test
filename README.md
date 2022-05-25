@@ -60,7 +60,6 @@ These instructions will help you to setup your own copy of project_name on your 
 2. Install all the dependencies
 
 3. Run command:    
-     '''
     ```bash
     sudo python3 Main.py
     ```
