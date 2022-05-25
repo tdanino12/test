@@ -2,10 +2,8 @@
 	
 	
 
-
-<!-- Add your project logo if you have any -->
+<div align="center">
 <img width=200px height=200px src="images/sisl_pursuit.gif" alt="Project logo">
-
 </div>
 
 <h1 align="center">project_name</h1>
