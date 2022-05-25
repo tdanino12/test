@@ -10,7 +10,7 @@
 
 
 <div align="center">
-MAC PER is a multi agent framework based on DDQN and Prioritized Experience Replay (PER). 
+MAC-PER is a multi-agent framework based on DDQN and Prioritized Experience Replay (PER). 
 
 </div>
 
@@ -22,7 +22,7 @@ MAC PER is a multi agent framework based on DDQN and Prioritized Experience Repl
 	
 ## 🧐About
 
-MAC PER offers an introduction to [PER](https://arxiv.org/abs/1511.05952) and multi agent settings using the Petting-zoo API. We test our solution on the [Pursuit Environment](https://www.pettingzoo.ml/sisl/pursuit) with three different modes of implementation. 
+MAC-PER offers an introduction to [PER](https://arxiv.org/abs/1511.05952) and multi agent settings using the Petting-zoo API. We test our solution on the [Pursuit Environment](https://www.pettingzoo.ml/sisl/pursuit) with three different modes of implementation. 
 
 ## 💡Features
 
