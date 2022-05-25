@@ -40,12 +40,15 @@
 <hr />
 
 <p align="center">
-Project's introduction here
+MAC PER provides a multi agent framework based on DDQN and Prioritized Experience Replay. 
 </p>
 
 ## 🧐About
 
-About your project
+The projects provide implementation of:
+1. Standart DDQN agents.
+2. PER based agents.
+3. PER with buffer shraing between the agents.
 
 ## 💡Features
 
