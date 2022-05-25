@@ -10,7 +10,7 @@
 
 
 <div align="center">
-MAC-PER is a multi-agent framework based on DDQN and Prioritized Experience Replay (PER). 
+MAC-PER is a multi-agent framework based on DDQN and Prioritized Experience Replay (PER)
 
 </div>
 
