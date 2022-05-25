@@ -1,11 +1,3 @@
-<!--
-Find and replace all these
-project_name: your project name
-github_username: your github username
-github_repo_link: your repo link
-and remove all the comments and also rename this file to README.md
- -->
-
 <div align="center">
 
 <!-- Add your project logo if you have any -->
