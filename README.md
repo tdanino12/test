@@ -13,7 +13,7 @@ and remove all the comments and also rename this file to README.md
 
 </div>
 
-<h1 align="center">project_name</h1>
+<h1 align="center">Multi Agent Project</h1>
 
  <p align="center">
  	<!-- Add your tagline or very short intro of your project -->
@@ -90,44 +90,12 @@ These instructions will help you to setup your own copy of project_name on your 
 1. []()
 1. []()
 
-## 📝Todo
-
--   []()
--   []()
-
-## 📈Future Plans
-
--   []()
 
 ## 🎈Usage
 
 How to use your project
 
-## ✍️Authors
 
-<!-- Add links to all the authors profile here OPTIONAL: You can mention what they did as well -->
-
--   [@author_name](profile link) - what he/she did
-
-## 📖Contributing
-
-<!-- You can leave this as it is or replace it with personalized text -->
-
-**_"In real open source, you have the right to control your own destiny."_** _- Linus Torvalds_
-
-Contributions are what make the open source community an amazing place. Any contributions you make are **greatly appreciated**.
-
-## 📢Contributors
-
-<!-- Add links to all the contributors profile here -->
-
--   [@contributor_name](profile link)
-
-## 💳License
-
-<!-- Mention your project licence here and also link to that file -->
-
-Distributed under the MIT License. See [`LICENSE`](LICENCE) for more information.
 
 ## 🧬Resources
 
