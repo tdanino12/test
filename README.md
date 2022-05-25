@@ -14,13 +14,6 @@
 <hr />
 <br />
 
-<div align="center">
-
-<!-- Add your project demo gif here -->
-
-![Project Demo Gif](your_gif_link)
-
-</div>
 
 <hr />
 
