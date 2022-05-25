@@ -40,7 +40,7 @@
 <hr />
 
 <p align="center">
-MAC PER provides a multi agent framework based on DDQN and [Prioritized Experience Replay](https://arxiv.org/abs/1511.05952). 
+MAC PER is a multi agent framework based on DDQN and [Prioritized Experience Replay](https://arxiv.org/abs/1511.05952). 
 	<a href="[https://github.com/github_username/github_repo_link/issues](https://arxiv.org/abs/1511.05952)">Prioritized Experience Replay</a>
 	
 </p>
