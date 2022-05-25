@@ -38,8 +38,11 @@ The projects provide implementation of:
 
 ## ⛏️Built with
 
--   []()
--   []()
+-   Keras
+-   TensorFlow 2
+-   PettingZoo
+-   Panda
+-   Pickle
 
 ## 🏁Getting Started
 
@@ -48,22 +51,17 @@ These instructions will help you to setup your own copy of project_name on your 
 ### 📚Prerequisite
 
 -   Python 3
--   Keras
--   TensorFlow 2
--   PettingZoo
--   Panda
--   Pickle
+
 
 ### 🧰Installation
 
-1. []()
-1. [.]()
+1. Clone this repo
 
-    ```bash
-    write code or commands like this
-    ```
+2. Install all the dependencies
 
-1. `and small snippets like this`
+3. Run command:
+
+     sudo python3 Main.py
 
 ## 🚀Deployment
 
