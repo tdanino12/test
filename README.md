@@ -7,19 +7,7 @@
 </div>
 <h1 align="center">MAC PER Project</h1>
 
- <p align="center">
- 	<!-- Add your tagline or very short intro of your project -->
-	Your project tagline/short description here
-    <br />
-	<!-- Add your project live demo link here -->
-    <a href="https://github.com/github_username/github_repo_link">View Demo</a>
-    ·
-	<!-- Add you issue link here -->
-    <a href="https://github.com/github_username/github_repo_link/issues">Report Bug</a>
-    ·
-	<!-- Add you issue/discussion link here too -->
-    <a href="https://github.com/github_username/github_repo_link/issues">Request Feature</a>
-  </p>
+
 
 <div align="center">
 MAC PER is a multi agent framework based on DDQN and [Prioritized Experience Replay](https://arxiv.org/abs/1511.05952). 
