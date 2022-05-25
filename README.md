@@ -15,8 +15,7 @@ MAC PER is a multi agent framework based on DDQN and [Prioritized Experience Rep
 
 </div>
 
-<hr />
-<br />
+
 
 
 
