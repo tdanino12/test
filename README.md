@@ -63,6 +63,10 @@ These instructions will help you to setup your own copy of project_name on your 
      '''bash
      sudo python3 Main.py
      '''
+    ```bash
+    yarn start
+    ```
+
 ## 🚀Deployment
 
 1. []()
