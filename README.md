@@ -5,7 +5,7 @@
 <div align="center">
 <img width=200px height=200px src="images/sisl_pursuit.gif" alt="Project logo">
 </div>
-<h1 align="center">project_name</h1>
+<h1 align="center">MAC PER Project</h1>
 
  <p align="center">
  	<!-- Add your tagline or very short intro of your project -->
@@ -29,13 +29,7 @@
 <hr />
 <br />
 
-<div align="center">
 
-<!-- Add your project demo gif here -->
-
-![Project Demo Gif](your_gif_link)
-
-</div>
 
 <hr />
 
