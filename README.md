@@ -6,20 +6,6 @@
 
 <h1 align="center">Multi Agent Project</h1>
 
- <p align="center">
- 	<!-- Add your tagline or very short intro of your project -->
-	Your project tagline/short description here
-    <br />
-	<!-- Add your project live demo link here -->
-    <a href="https://github.com/github_username/github_repo_link">View Demo</a>
-    ·
-	<!-- Add you issue link here -->
-    <a href="https://github.com/github_username/github_repo_link/issues">Report Bug</a>
-    ·
-	<!-- Add you issue/discussion link here too -->
-    <a href="https://github.com/github_username/github_repo_link/issues">Request Feature</a>
-  </p>
-
 <div align="center">
 
 <!-- Use Shields website (link in acknowledgement section) to generate these for your repo or just replace the links here with yours -->
