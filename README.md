@@ -52,8 +52,10 @@ The projects provide implementation of:
 
 ## 💡Features
 
-1. []()
-1. []()
+The projects provide implementation of:
+1. Standart DDQN agents.
+2. PER based agents.
+3. PER with buffer shraing between the agents.
 
 ## ⛏️Built with
 
@@ -66,8 +68,12 @@ These instructions will help you to setup your own copy of project_name on your 
 
 ### 📚Prerequisite
 
--   []()
--   []()
+-   Python 3
+-   Keras
+-   TensorFlow 2
+-   PettingZoo
+-   Panda
+-   Pickle
 
 ### 🧰Installation
 
